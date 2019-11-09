@@ -15,7 +15,7 @@ For further details on the model and various baselines, please see `src/README.m
 ## Data
 #### Download
 
-We ran experiments on a total of 6 datasets. Preprocessed data is availabled under `data/`.
+We ran experiments on a total of 6 datasets. You may download our processed data [here](https://people.csail.mit.edu/yujia/files/distributional-signatures/data.zip).
 
 | Dataset | Notes |
 |---|---|
